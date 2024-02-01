@@ -1,0 +1,10 @@
+Current Pet State:
+Hunger: 10
+Hygiene: 90
+Social: 90
+Sleep: 20
+Health: 100
+Mood: HAPPY
+Personality: HappyPersonality
+Pet Health Status: Your pet is healthy!
+Pet Mood: HAPPY
