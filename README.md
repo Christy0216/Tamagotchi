@@ -25,7 +25,7 @@ Virtual Pet Care is a Tamagotchi-style game developed in Java using the Model-Vi
 - Java IDE (e.g., IntelliJ IDEA, Eclipse)
 
 ### Installation
-1. Clone the repo: `git clone https://github.com/yourusername/virtual-pet-care.git`
+1. Clone the repo: `git clone https://github.com/Christy0216/Tamagotchi.git`
 2. Open the project in your IDE.
 3. Build and run the application.
 
